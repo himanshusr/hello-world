@@ -1,2 +1,2 @@
 # hello-world
-just hello
+just  because iam just learning how to use github
